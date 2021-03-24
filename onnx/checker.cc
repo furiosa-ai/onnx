@@ -918,6 +918,7 @@ std::set<std::string> experimental_ops = {
     "GRUUnit",
     "GivenTensorFill",
     "ImageScaler",
+    "LayerNormalization",
     "ParametricSoftplus",
     "Scale",
     "ScaledTanh"};
